@@ -1,0 +1,181 @@
+Paso,Parametro,Modelo,Puntaje
+1,Nitidez,Artbreeder,4.22
+2,Nitidez,Artbreeder,3.67
+3,Nitidez,Artbreeder,3.89
+4,Nitidez,Artbreeder,3.67
+5,Nitidez,Artbreeder,3.22
+1,Consistencia,Artbreeder,4.33
+2,Consistencia,Artbreeder,3.67
+3,Consistencia,Artbreeder,4.33
+4,Consistencia,Artbreeder,4.11
+5,Consistencia,Artbreeder,4.0
+1,Calidad de Imagen,Artbreeder,4.33
+2,Calidad de Imagen,Artbreeder,3.44
+3,Calidad de Imagen,Artbreeder,4.11
+4,Calidad de Imagen,Artbreeder,3.89
+5,Calidad de Imagen,Artbreeder,3.44
+1,Originalidad,Artbreeder,3.89
+2,Originalidad,Artbreeder,3.78
+3,Originalidad,Artbreeder,4.22
+4,Originalidad,Artbreeder,4.0
+5,Originalidad,Artbreeder,4.11
+1,Congruencia,Artbreeder,4.56
+2,Congruencia,Artbreeder,3.56
+3,Congruencia,Artbreeder,4.22
+4,Congruencia,Artbreeder,4.11
+5,Congruencia,Artbreeder,4.22
+1,Repetibilidad,Artbreeder,4.11
+2,Repetibilidad,Artbreeder,3.56
+3,Repetibilidad,Artbreeder,4.11
+4,Repetibilidad,Artbreeder,3.78
+5,Repetibilidad,Artbreeder,3.89
+1,Nitidez,Runway,4.44
+2,Nitidez,Runway,4.0
+3,Nitidez,Runway,4.44
+4,Nitidez,Runway,3.89
+5,Nitidez,Runway,4.33
+1,Consistencia,Runway,4.44
+2,Consistencia,Runway,4.22
+3,Consistencia,Runway,4.44
+4,Consistencia,Runway,4.11
+5,Consistencia,Runway,4.44
+1,Calidad de Imagen,Runway,4.22
+2,Calidad de Imagen,Runway,4.0
+3,Calidad de Imagen,Runway,4.44
+4,Calidad de Imagen,Runway,4.0
+5,Calidad de Imagen,Runway,4.67
+1,Originalidad,Runway,4.44
+2,Originalidad,Runway,4.22
+3,Originalidad,Runway,4.56
+4,Originalidad,Runway,3.89
+5,Originalidad,Runway,4.33
+1,Congruencia,Runway,4.56
+2,Congruencia,Runway,4.11
+3,Congruencia,Runway,4.33
+4,Congruencia,Runway,4.33
+5,Congruencia,Runway,4.33
+1,Repetibilidad,Runway,4.33
+2,Repetibilidad,Runway,4.22
+3,Repetibilidad,Runway,4.33
+4,Repetibilidad,Runway,3.78
+5,Repetibilidad,Runway,4.22
+1,Nitidez,DALL E 1,4.78
+2,Nitidez,DALL E 1,4.44
+3,Nitidez,DALL E 1,4.44
+4,Nitidez,DALL E 1,4.56
+5,Nitidez,DALL E 1,4.78
+1,Consistencia,DALL E 1,4.56
+2,Consistencia,DALL E 1,4.22
+3,Consistencia,DALL E 1,4.22
+4,Consistencia,DALL E 1,4.67
+5,Consistencia,DALL E 1,4.33
+1,Calidad de Imagen,DALL E 1,4.78
+2,Calidad de Imagen,DALL E 1,4.56
+3,Calidad de Imagen,DALL E 1,4.44
+4,Calidad de Imagen,DALL E 1,4.33
+5,Calidad de Imagen,DALL E 1,4.67
+1,Originalidad,DALL E 1,4.44
+2,Originalidad,DALL E 1,4.11
+3,Originalidad,DALL E 1,4.33
+4,Originalidad,DALL E 1,4.56
+5,Originalidad,DALL E 1,4.33
+1,Congruencia,DALL E 1,4.67
+2,Congruencia,DALL E 1,4.44
+3,Congruencia,DALL E 1,4.22
+4,Congruencia,DALL E 1,4.44
+5,Congruencia,DALL E 1,4.56
+1,Repetibilidad,DALL E 1,4.78
+2,Repetibilidad,DALL E 1,4.22
+3,Repetibilidad,DALL E 1,4.22
+4,Repetibilidad,DALL E 1,4.44
+5,Repetibilidad,DALL E 1,4.44
+1,Nitidez,DEEP AI,4.0
+2,Nitidez,DEEP AI,4.44
+3,Nitidez,DEEP AI,4.22
+4,Nitidez,DEEP AI,4.78
+5,Nitidez,DEEP AI,4.56
+1,Consistencia,DEEP AI,3.89
+2,Consistencia,DEEP AI,4.44
+3,Consistencia,DEEP AI,4.67
+4,Consistencia,DEEP AI,4.44
+5,Consistencia,DEEP AI,4.78
+1,Calidad de Imagen,DEEP AI,3.78
+2,Calidad de Imagen,DEEP AI,4.44
+3,Calidad de Imagen,DEEP AI,4.56
+4,Calidad de Imagen,DEEP AI,4.44
+5,Calidad de Imagen,DEEP AI,4.67
+1,Originalidad,DEEP AI,4.11
+2,Originalidad,DEEP AI,4.33
+3,Originalidad,DEEP AI,4.67
+4,Originalidad,DEEP AI,4.33
+5,Originalidad,DEEP AI,4.78
+1,Congruencia,DEEP AI,4.11
+2,Congruencia,DEEP AI,4.56
+3,Congruencia,DEEP AI,4.67
+4,Congruencia,DEEP AI,4.44
+5,Congruencia,DEEP AI,4.56
+1,Repetibilidad,DEEP AI,4.0
+2,Repetibilidad,DEEP AI,4.44
+3,Repetibilidad,DEEP AI,4.44
+4,Repetibilidad,DEEP AI,4.22
+5,Repetibilidad,DEEP AI,4.56
+1,Nitidez,Stable Diffusion,4.11
+2,Nitidez,Stable Diffusion,3.78
+3,Nitidez,Stable Diffusion,3.78
+4,Nitidez,Stable Diffusion,4.22
+5,Nitidez,Stable Diffusion,4.56
+1,Consistencia,Stable Diffusion,4.11
+2,Consistencia,Stable Diffusion,4.0
+3,Consistencia,Stable Diffusion,4.0
+4,Consistencia,Stable Diffusion,4.33
+5,Consistencia,Stable Diffusion,4.33
+1,Calidad de Imagen,Stable Diffusion,4.33
+2,Calidad de Imagen,Stable Diffusion,3.78
+3,Calidad de Imagen,Stable Diffusion,3.89
+4,Calidad de Imagen,Stable Diffusion,4.33
+5,Calidad de Imagen,Stable Diffusion,4.44
+1,Originalidad,Stable Diffusion,3.89
+2,Originalidad,Stable Diffusion,4.0
+3,Originalidad,Stable Diffusion,3.89
+4,Originalidad,Stable Diffusion,4.33
+5,Originalidad,Stable Diffusion,4.56
+1,Congruencia,Stable Diffusion,4.33
+2,Congruencia,Stable Diffusion,4.22
+3,Congruencia,Stable Diffusion,4.22
+4,Congruencia,Stable Diffusion,4.56
+5,Congruencia,Stable Diffusion,4.56
+1,Repetibilidad,Stable Diffusion,4.0
+2,Repetibilidad,Stable Diffusion,4.11
+3,Repetibilidad,Stable Diffusion,4.0
+4,Repetibilidad,Stable Diffusion,4.22
+5,Repetibilidad,Stable Diffusion,4.22
+1,Nitidez,CHAT GPT,4.22
+2,Nitidez,CHAT GPT,4.56
+3,Nitidez,CHAT GPT,4.56
+4,Nitidez,CHAT GPT,4.56
+5,Nitidez,CHAT GPT,4.56
+1,Consistencia,CHAT GPT,4.33
+2,Consistencia,CHAT GPT,4.44
+3,Consistencia,CHAT GPT,4.56
+4,Consistencia,CHAT GPT,4.56
+5,Consistencia,CHAT GPT,5.0
+1,Calidad de Imagen,CHAT GPT,4.33
+2,Calidad de Imagen,CHAT GPT,4.67
+3,Calidad de Imagen,CHAT GPT,4.56
+4,Calidad de Imagen,CHAT GPT,4.44
+5,Calidad de Imagen,CHAT GPT,4.56
+1,Originalidad,CHAT GPT,4.11
+2,Originalidad,CHAT GPT,4.44
+3,Originalidad,CHAT GPT,4.33
+4,Originalidad,CHAT GPT,4.33
+5,Originalidad,CHAT GPT,4.56
+1,Congruencia,CHAT GPT,4.33
+2,Congruencia,CHAT GPT,4.44
+3,Congruencia,CHAT GPT,4.67
+4,Congruencia,CHAT GPT,4.44
+5,Congruencia,CHAT GPT,4.56
+1,Repetibilidad,CHAT GPT,4.11
+2,Repetibilidad,CHAT GPT,4.44
+3,Repetibilidad,CHAT GPT,4.33
+4,Repetibilidad,CHAT GPT,4.22
+5,Repetibilidad,CHAT GPT,4.22

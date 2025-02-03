@@ -1,0 +1,11 @@
+id,Image_Name,Nitidez,Consistencia,Calidad,Originalidad,Congruencia,Repetibilidad
+1,dalle101_2510.png,5,4,4,4,3,4
+2,dalle102_2510.png,3,4,5,5,5,4
+3,dalle103_2510.png,3,5,5,5,5,4
+4,dalle104_2510.png,4,5,3,4,3,4
+5,dalle105_2510.png,4,5,4,3,5,3
+6,dalle201_2510.png,3,4,3,5,3,3
+7,dalle202_2510.png,4,3,3,4,3,3
+8,dalle203_2510.png,3,3,3,4,4,5
+9,dalle204_2510.png,4,3,4,3,5,4
+10,dalle205_2510.png,3,5,3,3,5,3

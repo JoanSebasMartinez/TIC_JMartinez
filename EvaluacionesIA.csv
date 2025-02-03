@@ -1,0 +1,361 @@
+image_number,Paso,Parametro,Modelo,Puntaje
+2,4,Nitidez,Stable Diffusion,5
+2,4,Consistencia,Stable Diffusion,5
+2,4,Calidad,Stable Diffusion,5
+2,4,Originalidad,Stable Diffusion,4
+2,4,Congruencia,Stable Diffusion,5
+2,4,Repetibilidad,Stable Diffusion,5
+2,5,Nitidez,Stable Diffusion,4
+2,5,Consistencia,Stable Diffusion,5
+2,5,Calidad,Stable Diffusion,5
+2,5,Originalidad,Stable Diffusion,4
+2,5,Congruencia,Stable Diffusion,4
+2,5,Repetibilidad,Stable Diffusion,4
+1,1,Nitidez,Stable Diffusion,5
+1,1,Consistencia,Stable Diffusion,4
+1,1,Calidad,Stable Diffusion,5
+1,1,Originalidad,Stable Diffusion,5
+1,1,Congruencia,Stable Diffusion,5
+1,1,Repetibilidad,Stable Diffusion,4
+1,2,Nitidez,Stable Diffusion,5
+1,2,Consistencia,Stable Diffusion,5
+1,2,Calidad,Stable Diffusion,5
+1,2,Originalidad,Stable Diffusion,5
+1,2,Congruencia,Stable Diffusion,5
+1,2,Repetibilidad,Stable Diffusion,5
+1,3,Nitidez,Stable Diffusion,4
+1,3,Consistencia,Stable Diffusion,5
+1,3,Calidad,Stable Diffusion,4
+1,3,Originalidad,Stable Diffusion,4
+1,3,Congruencia,Stable Diffusion,4
+1,3,Repetibilidad,Stable Diffusion,4
+1,4,Nitidez,Stable Diffusion,5
+1,4,Consistencia,Stable Diffusion,5
+1,4,Calidad,Stable Diffusion,5
+1,4,Originalidad,Stable Diffusion,5
+1,4,Congruencia,Stable Diffusion,5
+1,4,Repetibilidad,Stable Diffusion,5
+1,5,Nitidez,Stable Diffusion,4
+1,5,Consistencia,Stable Diffusion,4
+1,5,Calidad,Stable Diffusion,4
+1,5,Originalidad,Stable Diffusion,5
+1,5,Congruencia,Stable Diffusion,4
+1,5,Repetibilidad,Stable Diffusion,4
+2,1,Nitidez,Stable Diffusion,5
+2,1,Consistencia,Stable Diffusion,5
+2,1,Calidad,Stable Diffusion,5
+2,1,Originalidad,Stable Diffusion,4
+2,1,Congruencia,Stable Diffusion,5
+2,1,Repetibilidad,Stable Diffusion,5
+2,2,Nitidez,Stable Diffusion,4
+2,2,Consistencia,Stable Diffusion,4
+2,2,Calidad,Stable Diffusion,4
+2,2,Originalidad,Stable Diffusion,5
+2,2,Congruencia,Stable Diffusion,4
+2,2,Repetibilidad,Stable Diffusion,4
+2,3,Nitidez,Stable Diffusion,5
+2,3,Consistencia,Stable Diffusion,5
+2,3,Calidad,Stable Diffusion,5
+2,3,Originalidad,Stable Diffusion,5
+2,3,Congruencia,Stable Diffusion,5
+2,3,Repetibilidad,Stable Diffusion,5
+1,1,Nitidez,Runway,4
+1,1,Consistencia,Runway,5
+1,1,Calidad,Runway,4
+1,1,Originalidad,Runway,5
+1,1,Congruencia,Runway,5
+1,1,Repetibilidad,Runway,4
+1,2,Nitidez,Runway,5
+1,2,Consistencia,Runway,5
+1,2,Calidad,Runway,5
+1,2,Originalidad,Runway,4
+1,2,Congruencia,Runway,5
+1,2,Repetibilidad,Runway,5
+1,3,Nitidez,Runway,4
+1,3,Consistencia,Runway,4
+1,3,Calidad,Runway,4
+1,3,Originalidad,Runway,3
+1,3,Congruencia,Runway,4
+1,3,Repetibilidad,Runway,4
+1,4,Nitidez,Runway,5
+1,4,Consistencia,Runway,4
+1,4,Calidad,Runway,5
+1,4,Originalidad,Runway,4
+1,4,Congruencia,Runway,5
+1,4,Repetibilidad,Runway,5
+1,5,Nitidez,Runway,4
+1,5,Consistencia,Runway,5
+1,5,Calidad,Runway,4
+1,5,Originalidad,Runway,4
+1,5,Congruencia,Runway,5
+1,5,Repetibilidad,Runway,4
+2,1,Nitidez,Runway,3
+2,1,Consistencia,Runway,4
+2,1,Calidad,Runway,3
+2,1,Originalidad,Runway,3
+2,1,Congruencia,Runway,4
+2,1,Repetibilidad,Runway,3
+2,2,Nitidez,Runway,5
+2,2,Consistencia,Runway,5
+2,2,Calidad,Runway,5
+2,2,Originalidad,Runway,5
+2,2,Congruencia,Runway,5
+2,2,Repetibilidad,Runway,5
+2,3,Nitidez,Runway,4
+2,3,Consistencia,Runway,5
+2,3,Calidad,Runway,4
+2,3,Originalidad,Runway,4
+2,3,Congruencia,Runway,5
+2,3,Repetibilidad,Runway,4
+2,4,Nitidez,Runway,3
+2,4,Consistencia,Runway,4
+2,4,Calidad,Runway,3
+2,4,Originalidad,Runway,3
+2,4,Congruencia,Runway,4
+2,4,Repetibilidad,Runway,3
+2,5,Nitidez,Runway,5
+2,5,Consistencia,Runway,5
+2,5,Calidad,Runway,5
+2,5,Originalidad,Runway,4
+2,5,Congruencia,Runway,5
+2,5,Repetibilidad,Runway,5
+1,1,Nitidez,DDG,4
+1,1,Consistencia,DDG,3
+1,1,Calidad,DDG,4
+1,1,Originalidad,DDG,3
+1,1,Congruencia,DDG,4
+1,1,Repetibilidad,DDG,5
+1,2,Nitidez,DDG,4
+1,2,Consistencia,DDG,5
+1,2,Calidad,DDG,3
+1,2,Originalidad,DDG,3
+1,2,Congruencia,DDG,4
+1,2,Repetibilidad,DDG,4
+1,3,Nitidez,DDG,4
+1,3,Consistencia,DDG,5
+1,3,Calidad,DDG,3
+1,3,Originalidad,DDG,4
+1,3,Congruencia,DDG,3
+1,3,Repetibilidad,DDG,5
+1,4,Nitidez,DDG,3
+1,4,Consistencia,DDG,5
+1,4,Calidad,DDG,5
+1,4,Originalidad,DDG,3
+1,4,Congruencia,DDG,3
+1,4,Repetibilidad,DDG,4
+1,5,Nitidez,DDG,3
+1,5,Consistencia,DDG,5
+1,5,Calidad,DDG,4
+1,5,Originalidad,DDG,3
+1,5,Congruencia,DDG,4
+1,5,Repetibilidad,DDG,5
+2,1,Nitidez,DDG,4
+2,1,Consistencia,DDG,4
+2,1,Calidad,DDG,4
+2,1,Originalidad,DDG,3
+2,1,Congruencia,DDG,3
+2,1,Repetibilidad,DDG,4
+2,2,Nitidez,DDG,5
+2,2,Consistencia,DDG,5
+2,2,Calidad,DDG,4
+2,2,Originalidad,DDG,5
+2,2,Congruencia,DDG,5
+2,2,Repetibilidad,DDG,4
+2,3,Nitidez,DDG,3
+2,3,Consistencia,DDG,5
+2,3,Calidad,DDG,3
+2,3,Originalidad,DDG,3
+2,3,Congruencia,DDG,5
+2,3,Repetibilidad,DDG,3
+2,4,Nitidez,DDG,3
+2,4,Consistencia,DDG,5
+2,4,Calidad,DDG,4
+2,4,Originalidad,DDG,4
+2,4,Congruencia,DDG,3
+2,4,Repetibilidad,DDG,4
+2,5,Nitidez,DDG,4
+2,5,Consistencia,DDG,4
+2,5,Calidad,DDG,4
+2,5,Originalidad,DDG,3
+2,5,Congruencia,DDG,3
+2,5,Repetibilidad,DDG,3
+1,1,Nitidez,DALL E 1,5
+1,1,Consistencia,DALL E 1,4
+1,1,Calidad,DALL E 1,4
+1,1,Originalidad,DALL E 1,4
+1,1,Congruencia,DALL E 1,3
+1,1,Repetibilidad,DALL E 1,4
+1,2,Nitidez,DALL E 1,3
+1,2,Consistencia,DALL E 1,4
+1,2,Calidad,DALL E 1,5
+1,2,Originalidad,DALL E 1,5
+1,2,Congruencia,DALL E 1,5
+1,2,Repetibilidad,DALL E 1,4
+1,3,Nitidez,DALL E 1,3
+1,3,Consistencia,DALL E 1,5
+1,3,Calidad,DALL E 1,5
+1,3,Originalidad,DALL E 1,5
+1,3,Congruencia,DALL E 1,5
+1,3,Repetibilidad,DALL E 1,4
+1,4,Nitidez,DALL E 1,4
+1,4,Consistencia,DALL E 1,5
+1,4,Calidad,DALL E 1,3
+1,4,Originalidad,DALL E 1,4
+1,4,Congruencia,DALL E 1,3
+1,4,Repetibilidad,DALL E 1,4
+1,5,Nitidez,DALL E 1,4
+1,5,Consistencia,DALL E 1,5
+1,5,Calidad,DALL E 1,4
+1,5,Originalidad,DALL E 1,3
+1,5,Congruencia,DALL E 1,5
+1,5,Repetibilidad,DALL E 1,3
+2,1,Nitidez,DALL E 1,3
+2,1,Consistencia,DALL E 1,4
+2,1,Calidad,DALL E 1,3
+2,1,Originalidad,DALL E 1,5
+2,1,Congruencia,DALL E 1,3
+2,1,Repetibilidad,DALL E 1,3
+2,2,Nitidez,DALL E 1,4
+2,2,Consistencia,DALL E 1,3
+2,2,Calidad,DALL E 1,3
+2,2,Originalidad,DALL E 1,4
+2,2,Congruencia,DALL E 1,3
+2,2,Repetibilidad,DALL E 1,3
+2,3,Nitidez,DALL E 1,3
+2,3,Consistencia,DALL E 1,3
+2,3,Calidad,DALL E 1,3
+2,3,Originalidad,DALL E 1,4
+2,3,Congruencia,DALL E 1,4
+2,3,Repetibilidad,DALL E 1,5
+2,4,Nitidez,DALL E 1,4
+2,4,Consistencia,DALL E 1,3
+2,4,Calidad,DALL E 1,4
+2,4,Originalidad,DALL E 1,3
+2,4,Congruencia,DALL E 1,5
+2,4,Repetibilidad,DALL E 1,4
+2,5,Nitidez,DALL E 1,3
+2,5,Consistencia,DALL E 1,5
+2,5,Calidad,DALL E 1,3
+2,5,Originalidad,DALL E 1,3
+2,5,Congruencia,DALL E 1,5
+2,5,Repetibilidad,DALL E 1,3
+1,1,Nitidez,CHAT GPT,3
+1,1,Consistencia,CHAT GPT,3
+1,1,Calidad,CHAT GPT,3
+1,1,Originalidad,CHAT GPT,5
+1,1,Congruencia,CHAT GPT,4
+1,1,Repetibilidad,CHAT GPT,4
+1,2,Nitidez,CHAT GPT,4
+1,2,Consistencia,CHAT GPT,4
+1,2,Calidad,CHAT GPT,4
+1,2,Originalidad,CHAT GPT,3
+1,2,Congruencia,CHAT GPT,5
+1,2,Repetibilidad,CHAT GPT,5
+1,3,Nitidez,CHAT GPT,3
+1,3,Consistencia,CHAT GPT,3
+1,3,Calidad,CHAT GPT,4
+1,3,Originalidad,CHAT GPT,3
+1,3,Congruencia,CHAT GPT,3
+1,3,Repetibilidad,CHAT GPT,4
+1,4,Nitidez,CHAT GPT,5
+1,4,Consistencia,CHAT GPT,3
+1,4,Calidad,CHAT GPT,3
+1,4,Originalidad,CHAT GPT,4
+1,4,Congruencia,CHAT GPT,5
+1,4,Repetibilidad,CHAT GPT,3
+1,5,Nitidez,CHAT GPT,4
+1,5,Consistencia,CHAT GPT,5
+1,5,Calidad,CHAT GPT,5
+1,5,Originalidad,CHAT GPT,5
+1,5,Congruencia,CHAT GPT,3
+1,5,Repetibilidad,CHAT GPT,4
+2,1,Nitidez,CHAT GPT,4
+2,1,Consistencia,CHAT GPT,3
+2,1,Calidad,CHAT GPT,3
+2,1,Originalidad,CHAT GPT,4
+2,1,Congruencia,CHAT GPT,4
+2,1,Repetibilidad,CHAT GPT,3
+2,2,Nitidez,CHAT GPT,4
+2,2,Consistencia,CHAT GPT,3
+2,2,Calidad,CHAT GPT,5
+2,2,Originalidad,CHAT GPT,3
+2,2,Congruencia,CHAT GPT,4
+2,2,Repetibilidad,CHAT GPT,4
+2,3,Nitidez,CHAT GPT,4
+2,3,Consistencia,CHAT GPT,4
+2,3,Calidad,CHAT GPT,3
+2,3,Originalidad,CHAT GPT,3
+2,3,Congruencia,CHAT GPT,4
+2,3,Repetibilidad,CHAT GPT,3
+2,4,Nitidez,CHAT GPT,4
+2,4,Consistencia,CHAT GPT,4
+2,4,Calidad,CHAT GPT,4
+2,4,Originalidad,CHAT GPT,4
+2,4,Congruencia,CHAT GPT,3
+2,4,Repetibilidad,CHAT GPT,4
+2,5,Nitidez,CHAT GPT,3
+2,5,Consistencia,CHAT GPT,4
+2,5,Calidad,CHAT GPT,4
+2,5,Originalidad,CHAT GPT,4
+2,5,Congruencia,CHAT GPT,3
+2,5,Repetibilidad,CHAT GPT,3
+1,1,Nitidez,Artbreeder,4
+1,1,Consistencia,Artbreeder,5
+1,1,Calidad,Artbreeder,4
+1,1,Originalidad,Artbreeder,3
+1,1,Congruencia,Artbreeder,5
+1,1,Repetibilidad,Artbreeder,5
+1,2,Nitidez,Artbreeder,4
+1,2,Consistencia,Artbreeder,4
+1,2,Calidad,Artbreeder,3
+1,2,Originalidad,Artbreeder,5
+1,2,Congruencia,Artbreeder,4
+1,2,Repetibilidad,Artbreeder,4
+1,3,Nitidez,Artbreeder,5
+1,3,Consistencia,Artbreeder,3
+1,3,Calidad,Artbreeder,5
+1,3,Originalidad,Artbreeder,4
+1,3,Congruencia,Artbreeder,4
+1,3,Repetibilidad,Artbreeder,3
+1,4,Nitidez,Artbreeder,3
+1,4,Consistencia,Artbreeder,5
+1,4,Calidad,Artbreeder,3
+1,4,Originalidad,Artbreeder,5
+1,4,Congruencia,Artbreeder,3
+1,4,Repetibilidad,Artbreeder,4
+1,5,Nitidez,Artbreeder,3
+1,5,Consistencia,Artbreeder,4
+1,5,Calidad,Artbreeder,5
+1,5,Originalidad,Artbreeder,4
+1,5,Congruencia,Artbreeder,4
+1,5,Repetibilidad,Artbreeder,3
+2,1,Nitidez,Artbreeder,3
+2,1,Consistencia,Artbreeder,4
+2,1,Calidad,Artbreeder,3
+2,1,Originalidad,Artbreeder,3
+2,1,Congruencia,Artbreeder,4
+2,1,Repetibilidad,Artbreeder,5
+2,2,Nitidez,Artbreeder,5
+2,2,Consistencia,Artbreeder,3
+2,2,Calidad,Artbreeder,4
+2,2,Originalidad,Artbreeder,4
+2,2,Congruencia,Artbreeder,3
+2,2,Repetibilidad,Artbreeder,5
+2,3,Nitidez,Artbreeder,4
+2,3,Consistencia,Artbreeder,5
+2,3,Calidad,Artbreeder,3
+2,3,Originalidad,Artbreeder,5
+2,3,Congruencia,Artbreeder,3
+2,3,Repetibilidad,Artbreeder,5
+2,4,Nitidez,Artbreeder,4
+2,4,Consistencia,Artbreeder,4
+2,4,Calidad,Artbreeder,3
+2,4,Originalidad,Artbreeder,4
+2,4,Congruencia,Artbreeder,5
+2,4,Repetibilidad,Artbreeder,5
+2,5,Nitidez,Artbreeder,5
+2,5,Consistencia,Artbreeder,5
+2,5,Calidad,Artbreeder,3
+2,5,Originalidad,Artbreeder,5
+2,5,Congruencia,Artbreeder,4
+2,5,Repetibilidad,Artbreeder,3
